@@ -105,8 +105,9 @@ Este projeto tem como objetivo desenvolver uma análise de dados voltada para um
 - Instale as dependências
 - Execute o script principal
 
-
-
+## Observação
+Esse projeto ainda está em construção, pois a quantidade de livros no banco de dados é pequena em relação ao número de livros existentes, além de ocorrer lançamentos de livros anulamente.
+Os códigos ainda podem ser aperfeiçoados e para um futuro, com ajuda de outras áreas, a construção real do aplciativo ou site.
 
 
 
