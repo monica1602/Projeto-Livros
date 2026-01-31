@@ -29,4 +29,7 @@ Este projeto tem como objetivo desenvolver uma análise de dados voltada para um
 ## Imagens
 
 ### Gráfico Ano de Lançamento
-<img src=""C:\Users\Usuario\OneDrive\Desktop\Postagem Linkedin\fotos\projeto livros\grafico ano de lançamento.png" alt="Projeto Livros"/>
+<p align="center">
+  <img src=""C:\Users\Usuario\OneDrive\Desktop\Postagem Linkedin\fotos\projeto livros\grafico ano de lançamento.png" alt="Projeto Livros"/>
+</p>
+
